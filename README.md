@@ -1,7 +1,5 @@
-drag2match
-==========
-
 3D Drag To Match Game Examples
+==============================
 
 Thank you for buying this package!
 For those who want to make an puzzle game for the first time will help.
